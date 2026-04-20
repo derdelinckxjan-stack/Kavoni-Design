@@ -2,7 +2,7 @@
 
 > Performance parts and aerodynamic upgrades for the BMW 3 Series across E, F, and G generations.
 
-**Total products available: 36** | [Shop BMW 3 Series → kavonidesign.com](https://www.kavonidesign.com)
+**Total products available: 42** | [Shop BMW 3 Series → kavonidesign.com](https://www.kavonidesign.com)
 
 ---
 
@@ -14,11 +14,11 @@
 | **Years** | 2005 – 2013 |
 | **Engine(s)** | N54, N55, S65 |
 | **Body Styles** | Sedan, Touring, Coupé, Convertible |
-| **Products Available** | 6 |
+| **Products Available** | 7 |
 
-**Categories covered:** Front Aero, Rear Aero, Side Skirts, Rear Spoilers
+**Categories covered:** Front Aero, Rear Aero, Side Skirts, Rear Spoilers, Exhaust
 
-> Includes M3 E90/E92/E93 variants. The E9x generation marked BMW's shift to turbocharged inline-6 power, with the legendary S65 V8 reserved for the M3.
+> Includes M3 E90/E92/E93 variants and 335i N54/N55. E9x generation covered with carbon aero and the E9x 335i N54/N55 catback exhaust system.
 
 ---
 
@@ -30,11 +30,11 @@
 | **Years** | 2012 – 2019 |
 | **Engine(s)** | N55, B48, B58 |
 | **Body Styles** | Sedan, Touring |
-| **Products Available** | 13 |
+| **Products Available** | 15 |
 
-**Categories covered:** Front Aero, Rear Spoilers, Headlights, Taillights, Exhaust, Exterior
+**Categories covered:** Front Aero, Rear Aero, Side Skirts, Rear Spoilers, Headlights, Taillights, Exhaust, Axleback
 
-> Includes 335i & 340i variants. LCI facelift (2016+) is fully supported. Our F30 range focuses on lighting upgrades, exhaust systems, and aero refinements.
+> Includes 335i, 340i, and M3 F80 variants. LCI facelift (2016+) fully supported. Front splitters (V-Style, Mp-Style), rear diffusers (quad, dual, single-exit), side skirts, LCI-style LED switchable headlights, GTS OLED & LCI taillights, valved axleback exhaust, PSM & CS-style rear spoilers.
 
 ---
 
@@ -46,11 +46,11 @@
 | **Years** | 2019 – present |
 | **Engine(s)** | B48, B58 |
 | **Body Styles** | Sedan, Touring |
-| **Products Available** | 17 |
+| **Products Available** | 20 |
 
-**Categories covered:** Front Aero, Rear Aero, Side Skirts, Grilles, Headlights, Interior & Controls, Rear Spoilers
+**Categories covered:** Front Aero, Rear Aero, Side Skirts, Grilles, Headlights, Interior Trim, Rear Spoilers, Engine Bay, Antenna Cover, Dynamic Indicators
 
-> Includes M340i. LCI facelift (2022+) is covered separately. The G20 is one of our strongest ranges — full aero and interior support for both Sedan and Touring.
+> Includes M340i. Pre-LCI (2019–2021) and LCI (2022+) both explicitly covered. Full aero range across both facelifts: 4 front splitter options, ADRO-style side skirts, diffusers, diamond and double slat grilles, B58 engine cover, G-Series dynamic indicators, and multiple headlight configurations (laser, LED switchable DRL).
 
 ---
 
@@ -58,10 +58,10 @@
 
 The 3 Series is the backbone of BMW's lineup and one of our most comprehensive ranges. Whether you're refining a daily driver or building a track-focused machine, our parts are selected for fitment precision, material quality, and visual impact.
 
-- **Aero kits** engineered for downforce and aesthetics
-- **Exhaust systems** for improved sound and performance
+- **Aero kits** engineered for downforce and aesthetics (front, rear, and sides for all generations)
+- **Exhaust systems** for improved sound and performance (catback, axleback, valved)
 - **Carbon fibre & quality composite** bodywork
-- **Lighting upgrades** for a modern, aggressive look
+- **Lighting upgrades** for a modern, aggressive look (headlights, taillights, indicators)
 
 ---
 
