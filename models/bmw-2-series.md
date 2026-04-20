@@ -1,8 +1,8 @@
 # BMW 2 Series — Kavoni Design Parts & Accessories
 
-> Strong exhaust and aero coverage for the F22/F23, plus interior and spoiler upgrades for the G42.
+> Strong exhaust, aero, and lighting coverage for the F22/F23, plus interior and spoiler upgrades for the G42.
 
-**Total products available: 18** | [Shop BMW 2 Series → kavonidesign.com](https://www.kavonidesign.com)
+**Total products available: 24** | [Shop BMW 2 Series → kavonidesign.com](https://www.kavonidesign.com)
 
 ---
 
@@ -14,11 +14,11 @@
 | **Years** | 2014 – 2021 |
 | **Engine(s)** | N55, B58 |
 | **Body Styles** | Coupé, Convertible |
-| **Products Available** | 14 |
+| **Products Available** | 18 |
 
-**Categories covered:** Front Aero, Rear Aero, Side Skirts, Grilles, Headlights, Taillights, Exhaust
+**Categories covered:** Front Aero, Rear Aero, Side Skirts, Grilles, Headlights, Taillights, Exhaust, Rear Spoilers, Mirror Covers, Axleback
 
-> Includes M240i. One of our strongest F-Series ranges — comprehensive exhaust and aero options for both Coupé and Convertible body styles.
+> Includes M240i (B58). One of our strongest F-Series ranges. Front lips (carbon fibre), MP-style diffuser, carbon side skirts (shared with F20/F21), double slat grilles, 4 headlight options (plug-and-play, colour-switching DRLs, halogen/xenon/LED variants), GTS LED taillights, PSM high kick trunk spoiler, CS-style rear spoiler, valved axleback exhaust (F22/F3X shared), M240i B58 valved catback, and mirror covers.
 
 ---
 
@@ -30,11 +30,11 @@
 | **Years** | 2021 – present |
 | **Engine(s)** | B48, B58 |
 | **Body Styles** | Coupé |
-| **Products Available** | 4 |
+| **Products Available** | 6 |
 
-**Categories covered:** Interior & Controls, Rear Spoilers, Interior Trim, Mirrors
+**Categories covered:** Interior Trim, Rear Spoilers, Mirror Covers, Dynamic Indicators, Antenna Cover
 
-> Includes M240i. The G42 range focuses on interior refinements and exterior detail upgrades, with rear spoiler options to enhance the Coupé silhouette.
+> Includes M240i. The G42 range covers: carbon fibre steering wheel trim, rear spoiler, M performance-style mirror caps, G-Series dynamic indicators, and G-Series LCI antenna cover.
 
 ---
 
@@ -44,7 +44,8 @@ The 2 Series is compact, sharp, and rewarding. Our parts range leans into that c
 
 - **Full aero suites** for F22/F23 including front, rear, and sides
 - **Grille replacements** for a customised front-end look
-- **Exhaust systems** to amplify the N55 and B58 sound
+- **Exhaust systems** to amplify the N55 and B58 sound (valved catback, axleback)
+- **Lighting upgrades** — 4 headlight options including colour-switching DRLs
 - **Interior trim and controls** for the G42 generation
 - **Rear spoilers** for added downforce character
 
