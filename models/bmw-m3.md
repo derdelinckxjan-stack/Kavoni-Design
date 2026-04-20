@@ -2,7 +2,7 @@
 
 > Our most extensive M car range. Full aero, exhaust, interior, and lighting coverage across three M3 generations.
 
-**Total products available: 47** | [Shop BMW M3 → kavonidesign.com](https://www.kavonidesign.com)
+**Total products available: 52** | [Shop BMW M3 → kavonidesign.com](https://www.kavonidesign.com)
 
 ---
 
@@ -30,11 +30,11 @@
 | **Years** | 2014 – 2018 |
 | **Engine(s)** | S55 (Inline-6 Biturbo) |
 | **Body Styles** | Sedan |
-| **Products Available** | 21 |
+| **Products Available** | 26 |
 
-**Categories covered:** Front Aero, Rear Aero, Side Skirts, Grilles, Exhaust, Interior Trim, Engine Bay, Headlights, Taillights
+**Categories covered:** Front Aero, Rear Aero, Side Skirts, Grilles, Exhaust, Midpipes, Downpipes, Interior Trim, Engine Bay, Headlights, Taillights, Mirror Covers, Antenna Cover, Oil Cooler Skid Plate
 
-> Our largest F-Series range. The F80 M3 receives full aero, exhaust, and interior coverage — from aggressive front splitters to carbon engine bay trim.
+> Our largest F-Series range. The F80 M3 receives full aero, exhaust, and interior coverage — from aggressive front splitters to carbon engine bay trim. Multiple splitter styles (V, V2, CS, MP, Pre-preg), full S55 exhaust lineup, and both headlight and taillight upgrades.
 
 ---
 
@@ -48,9 +48,9 @@
 | **Body Styles** | Sedan, Touring |
 | **Products Available** | 20 |
 
-**Categories covered:** Front Aero, Rear Aero, Side Skirts, Grilles, Interior Trim, Engine Bay, Rear Spoilers
+**Categories covered:** Front Aero, Rear Aero, Side Skirts, Grilles, Exhaust, Midpipes, Downpipes, Interior Trim, Engine Bay, Rear Spoilers, Bumper Vents, Fender Trim, Mirror Covers, Oil Cooler Skid Plate
 
-> Competition & xDrive variants all covered. The Touring (G81) is also fully supported — one of the few suppliers to cover the M3 Touring explicitly.
+> Competition & xDrive variants all covered. The Touring (G81) is also fully supported — one of the few suppliers to cover the M3 Touring explicitly. Full S58 exhaust lineup including valved catback and equal-length midpipe.
 
 ---
 
@@ -59,10 +59,10 @@
 The M3 is the centrepiece of our catalogue. Across all three generations, we offer the widest range of upgrades available — from subtle exterior refinements to complete aero transformations.
 
 - **Full aero suites** for E90, F80, and G80/G81
-- **Exhaust systems** tuned to enhance the S55 and S58 biturbo note
+- **Exhaust systems** tuned to enhance the S55 and S58 biturbo note (valved catback, equal-length catback, midpipes, downpipes)
 - **Carbon fibre interior trim** for cockpit-focused upgrades
 - **Engine bay dress-up** kits for show-quality presentation
-- **Lighting upgrades** with OEM-fit precision
+- **Lighting upgrades** with OEM-fit precision (headlights, taillights, indicators)
 
 ---
 
